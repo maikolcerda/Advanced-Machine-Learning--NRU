@@ -1,4 +1,4 @@
-## Advanced-Machine-Learning--NRU
+## Advanced-Deep-Learning-- NRU
 
 Welcome to "Intro to Deep Learning" course! We are excited to have you in the class and we are looking forward to your contributions to the learning community.
 Deep learning is a fast-growing field of AI focused on using neural networks for complex practical problems. Deep neural networks are used nowadays for object recognition and image analysis, for various modules of self-driving cars, for chatbots and natural language understanding problems.
