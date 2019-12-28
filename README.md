@@ -13,7 +13,7 @@ Please note that this is an advanced course and we assume basic knowledge of mac
 
 We will cover all these topics in our recap, but the discussion may be quite tough if you've never heard of machine learning before.
 
-##Readings
+## Readings
 
 If you ever feel that you need more reading on TensorFlow you can get back here to grab some free online materials:
     TensorFlow: The Confusing Parts https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1
